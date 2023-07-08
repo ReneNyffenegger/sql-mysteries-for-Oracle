@@ -1,2 +1,3 @@
-# sql-mysteries-for-Oracle
-sql-mysteries ported to Oracle
+# sql-mysteries for Oracle
+
+[sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) ported to Oracle.
